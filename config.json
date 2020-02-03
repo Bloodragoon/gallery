@@ -81,5 +81,62 @@
       "placeholder_path": "./photos/001 December 2020/10-Sunglasses.placeholder.jpg"
     }
   ],
-  "002 January 2020": []
+  "002 January 2020": [
+    {
+      "width": 600,
+      "height": 450,
+      "path": "./photos/002 January 2020/001.png",
+      "compressed_path": "./photos/002 January 2020/001.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/001.placeholder.png"
+    },
+    {
+      "width": 600,
+      "height": 450,
+      "path": "./photos/002 January 2020/002.png",
+      "compressed_path": "./photos/002 January 2020/002.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/002.placeholder.png"
+    },
+    {
+      "width": 600,
+      "height": 450,
+      "path": "./photos/002 January 2020/003.jpg",
+      "compressed_path": "./photos/002 January 2020/003.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/003.placeholder.jpg"
+    },
+    {
+      "width": 450,
+      "height": 600,
+      "path": "./photos/002 January 2020/004.jpg",
+      "compressed_path": "./photos/002 January 2020/004.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/004.placeholder.jpg"
+    },
+    {
+      "width": 600,
+      "height": 450,
+      "path": "./photos/002 January 2020/005.png",
+      "compressed_path": "./photos/002 January 2020/005.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/005.placeholder.png"
+    },
+    {
+      "width": 600,
+      "height": 450,
+      "path": "./photos/002 January 2020/008.png",
+      "compressed_path": "./photos/002 January 2020/008.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/008.placeholder.png"
+    },
+    {
+      "width": 596,
+      "height": 842,
+      "path": "./photos/002 January 2020/009.png",
+      "compressed_path": "./photos/002 January 2020/009.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/002 January 2020/009.placeholder.png"
+    }
+  ]
 }
