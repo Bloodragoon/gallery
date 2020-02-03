@@ -82,7 +82,7 @@ def run():
     config = {}
     dirs = get_directories()
     print('Found {length} directories'.format(length=len(dirs)))
-    for i, path in enumerate(dirs):
+    for i, path in reversed(list(enumerate(dirs))):
         print(str(i+1) + ': Processing photos for the album "{album}"'.format(
             album=path))
         config[path] = get_images(path)

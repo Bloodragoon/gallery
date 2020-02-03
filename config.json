@@ -1,86 +1,6 @@
 {
-  "2019-12-01 December": [
-    {
-      "width": 500,
-      "height": 500,
-      "path": "./photos/2019-12-01 December/01-Cat.jpg",
-      "compressed_path": "./photos/2019-12-01 December/01-Cat.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/01-Cat.placeholder.jpg"
-    },
-    {
-      "width": 500,
-      "height": 500,
-      "path": "./photos/2019-12-01 December/02-Sharky.jpg",
-      "compressed_path": "./photos/2019-12-01 December/02-Sharky.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/02-Sharky.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/03-Sparta.jpg",
-      "compressed_path": "./photos/2019-12-01 December/03-Sparta.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/03-Sparta.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/04-Shoe.jpg",
-      "compressed_path": "./photos/2019-12-01 December/04-Shoe.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/04-Shoe.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/05-Burger.jpg",
-      "compressed_path": "./photos/2019-12-01 December/05-Burger.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/05-Burger.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/06-Audiobooks.jpg",
-      "compressed_path": "./photos/2019-12-01 December/06-Audiobooks.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/06-Audiobooks.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/07-Donuts.jpg",
-      "compressed_path": "./photos/2019-12-01 December/07-Donuts.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/07-Donuts.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/08-Bear.jpg",
-      "compressed_path": "./photos/2019-12-01 December/08-Bear.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/08-Bear.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/09-Hot-Dog.jpg",
-      "compressed_path": "./photos/2019-12-01 December/09-Hot-Dog.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/09-Hot-Dog.placeholder.jpg"
-    },
-    {
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos/2019-12-01 December/10-Sunglasses.jpg",
-      "compressed_path": "./photos/2019-12-01 December/10-Sunglasses.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/2019-12-01 December/10-Sunglasses.placeholder.jpg"
-    }
-  ],
+  "2020-07-01 July": [],
+  "2020-02-01 Febuary": [],
   "2020-01-01 January": [
     {
       "width": 600,
@@ -163,5 +83,87 @@
       "placeholder_path": "./photos/2020-01-01 January/010.placeholder.jpg"
     }
   ],
-  "2020-12-01 December": []
+  "2019-12-01 December": [
+    {
+      "width": 500,
+      "height": 500,
+      "path": "./photos/2019-12-01 December/01-Cat.jpg",
+      "compressed_path": "./photos/2019-12-01 December/01-Cat.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/01-Cat.placeholder.jpg"
+    },
+    {
+      "width": 500,
+      "height": 500,
+      "path": "./photos/2019-12-01 December/02-Sharky.jpg",
+      "compressed_path": "./photos/2019-12-01 December/02-Sharky.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/02-Sharky.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/03-Sparta.jpg",
+      "compressed_path": "./photos/2019-12-01 December/03-Sparta.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/03-Sparta.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/04-Shoe.jpg",
+      "compressed_path": "./photos/2019-12-01 December/04-Shoe.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/04-Shoe.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/05-Burger.jpg",
+      "compressed_path": "./photos/2019-12-01 December/05-Burger.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/05-Burger.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/06-Audiobooks.jpg",
+      "compressed_path": "./photos/2019-12-01 December/06-Audiobooks.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/06-Audiobooks.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/07-Donuts.jpg",
+      "compressed_path": "./photos/2019-12-01 December/07-Donuts.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/07-Donuts.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/08-Bear.jpg",
+      "compressed_path": "./photos/2019-12-01 December/08-Bear.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/08-Bear.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/09-Hot-Dog.jpg",
+      "compressed_path": "./photos/2019-12-01 December/09-Hot-Dog.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/09-Hot-Dog.placeholder.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos/2019-12-01 December/10-Sunglasses.jpg",
+      "compressed_path": "./photos/2019-12-01 December/10-Sunglasses.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2019-12-01 December/10-Sunglasses.placeholder.jpg"
+    }
+  ],
+  "2019-11-01 November": []
 }
