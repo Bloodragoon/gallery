@@ -1,166 +1,93 @@
 {
-  "December 2019": [
+  "2019-12-01": [
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Audiobooks.jpg",
-      "compressed_path": "./photos/December 2019/Audiobooks.min.jpg",
+      "path": "./photos/2019-12-01/Audiobooks.jpg",
+      "compressed_path": "./photos/2019-12-01/Audiobooks.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Audiobooks.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Audiobooks.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Bear.jpg",
-      "compressed_path": "./photos/December 2019/Bear.min.jpg",
+      "path": "./photos/2019-12-01/Bear.jpg",
+      "compressed_path": "./photos/2019-12-01/Bear.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Bear.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Bear.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Burger.jpg",
-      "compressed_path": "./photos/December 2019/Burger.min.jpg",
+      "path": "./photos/2019-12-01/Burger.jpg",
+      "compressed_path": "./photos/2019-12-01/Burger.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Burger.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Burger.placeholder.jpg"
     },
     {
       "width": 500,
       "height": 500,
-      "path": "./photos/December 2019/Cat.jpg",
-      "compressed_path": "./photos/December 2019/Cat.min.jpg",
+      "path": "./photos/2019-12-01/Cat.jpg",
+      "compressed_path": "./photos/2019-12-01/Cat.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Cat.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Cat.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Donuts.jpg",
-      "compressed_path": "./photos/December 2019/Donuts.min.jpg",
+      "path": "./photos/2019-12-01/Donuts.jpg",
+      "compressed_path": "./photos/2019-12-01/Donuts.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Donuts.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Donuts.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Hot-Dog.jpg",
-      "compressed_path": "./photos/December 2019/Hot-Dog.min.jpg",
+      "path": "./photos/2019-12-01/Hot-Dog.jpg",
+      "compressed_path": "./photos/2019-12-01/Hot-Dog.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Hot-Dog.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Hot-Dog.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1000,
-      "path": "./photos/December 2019/Post_Background.jpg",
-      "compressed_path": "./photos/December 2019/Post_Background.min.jpg",
+      "path": "./photos/2019-12-01/Post_Background.jpg",
+      "compressed_path": "./photos/2019-12-01/Post_Background.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Post_Background.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Post_Background.placeholder.jpg"
     },
     {
       "width": 500,
       "height": 500,
-      "path": "./photos/December 2019/Sharky.jpg",
-      "compressed_path": "./photos/December 2019/Sharky.min.jpg",
+      "path": "./photos/2019-12-01/Sharky.jpg",
+      "compressed_path": "./photos/2019-12-01/Sharky.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Sharky.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Sharky.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Shoe.jpg",
-      "compressed_path": "./photos/December 2019/Shoe.min.jpg",
+      "path": "./photos/2019-12-01/Shoe.jpg",
+      "compressed_path": "./photos/2019-12-01/Shoe.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Shoe.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Shoe.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Sparta.jpg",
-      "compressed_path": "./photos/December 2019/Sparta.min.jpg",
+      "path": "./photos/2019-12-01/Sparta.jpg",
+      "compressed_path": "./photos/2019-12-01/Sparta.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Sparta.placeholder.jpg"
-    },
-    {
-      "width": 1724,
-      "height": 1158,
-      "path": "./photos/December 2019/Spotify.jpg",
-      "compressed_path": "./photos/December 2019/Spotify.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/December 2019/Spotify.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Sparta.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/December 2019/Sunglasses.jpg",
-      "compressed_path": "./photos/December 2019/Sunglasses.min.jpg",
+      "path": "./photos/2019-12-01/Sunglasses.jpg",
+      "compressed_path": "./photos/2019-12-01/Sunglasses.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/December 2019/Sunglasses.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01/Sunglasses.placeholder.jpg"
     }
   ],
-  "January 2020": [
-    {
-      "width": 600,
-      "height": 450,
-      "path": "./photos/January 2020/10mins-04.jpg",
-      "compressed_path": "./photos/January 2020/10mins-04.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/10mins-04.placeholder.jpg"
-    },
-    {
-      "width": 2500,
-      "height": 1875,
-      "path": "./photos/January 2020/chocolate-ice-blocks-chocolate-03.png",
-      "compressed_path": "./photos/January 2020/chocolate-ice-blocks-chocolate-03.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/chocolate-ice-blocks-chocolate-03.placeholder.png"
-    },
-    {
-      "width": 450,
-      "height": 600,
-      "path": "./photos/January 2020/ice-blocks-05-05.jpg",
-      "compressed_path": "./photos/January 2020/ice-blocks-05-05.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/ice-blocks-05-05.placeholder.jpg"
-    },
-    {
-      "width": 596,
-      "height": 842,
-      "path": "./photos/January 2020/Ice-Cream-Final-01.png",
-      "compressed_path": "./photos/January 2020/Ice-Cream-Final-01.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/Ice-Cream-Final-01.placeholder.png"
-    },
-    {
-      "width": 898,
-      "height": 1271,
-      "path": "./photos/January 2020/Ice-Cream-Final-Outline.png",
-      "compressed_path": "./photos/January 2020/Ice-Cream-Final-Outline.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/Ice-Cream-Final-Outline.placeholder.png"
-    },
-    {
-      "width": 2500,
-      "height": 1875,
-      "path": "./photos/January 2020/rocket_large-01.png",
-      "compressed_path": "./photos/January 2020/rocket_large-01.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/rocket_large-01.placeholder.png"
-    },
-    {
-      "width": 2500,
-      "height": 1875,
-      "path": "./photos/January 2020/spaceship_1-01.png",
-      "compressed_path": "./photos/January 2020/spaceship_1-01.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/spaceship_1-01.placeholder.png"
-    },
-    {
-      "width": 2500,
-      "height": 1875,
-      "path": "./photos/January 2020/vanilla-ice-blocks.png",
-      "compressed_path": "./photos/January 2020/vanilla-ice-blocks.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/January 2020/vanilla-ice-blocks.placeholder.png"
-    }
-  ]
+  "2020-01-01": []
 }
