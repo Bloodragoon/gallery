@@ -1,142 +1,167 @@
 {
-  "001 December 2020": [
+  "2019-12-01 December": [
     {
       "width": 500,
       "height": 500,
-      "path": "./photos/001 December 2020/01-Cat.jpg",
-      "compressed_path": "./photos/001 December 2020/01-Cat.min.jpg",
+      "path": "./photos/2019-12-01 December/01-Cat.jpg",
+      "compressed_path": "./photos/2019-12-01 December/01-Cat.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/01-Cat.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/01-Cat.placeholder.jpg"
     },
     {
       "width": 500,
       "height": 500,
-      "path": "./photos/001 December 2020/02-Sharky.jpg",
-      "compressed_path": "./photos/001 December 2020/02-Sharky.min.jpg",
+      "path": "./photos/2019-12-01 December/02-Sharky.jpg",
+      "compressed_path": "./photos/2019-12-01 December/02-Sharky.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/02-Sharky.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/02-Sharky.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/03-Sparta.jpg",
-      "compressed_path": "./photos/001 December 2020/03-Sparta.min.jpg",
+      "path": "./photos/2019-12-01 December/03-Sparta.jpg",
+      "compressed_path": "./photos/2019-12-01 December/03-Sparta.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/03-Sparta.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/03-Sparta.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/04-Shoe.jpg",
-      "compressed_path": "./photos/001 December 2020/04-Shoe.min.jpg",
+      "path": "./photos/2019-12-01 December/04-Shoe.jpg",
+      "compressed_path": "./photos/2019-12-01 December/04-Shoe.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/04-Shoe.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/04-Shoe.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/05-Burger.jpg",
-      "compressed_path": "./photos/001 December 2020/05-Burger.min.jpg",
+      "path": "./photos/2019-12-01 December/05-Burger.jpg",
+      "compressed_path": "./photos/2019-12-01 December/05-Burger.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/05-Burger.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/05-Burger.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/06-Audiobooks.jpg",
-      "compressed_path": "./photos/001 December 2020/06-Audiobooks.min.jpg",
+      "path": "./photos/2019-12-01 December/06-Audiobooks.jpg",
+      "compressed_path": "./photos/2019-12-01 December/06-Audiobooks.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/06-Audiobooks.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/06-Audiobooks.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/07-Donuts.jpg",
-      "compressed_path": "./photos/001 December 2020/07-Donuts.min.jpg",
+      "path": "./photos/2019-12-01 December/07-Donuts.jpg",
+      "compressed_path": "./photos/2019-12-01 December/07-Donuts.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/07-Donuts.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/07-Donuts.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/08-Bear.jpg",
-      "compressed_path": "./photos/001 December 2020/08-Bear.min.jpg",
+      "path": "./photos/2019-12-01 December/08-Bear.jpg",
+      "compressed_path": "./photos/2019-12-01 December/08-Bear.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/08-Bear.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/08-Bear.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/09-Hot-Dog.jpg",
-      "compressed_path": "./photos/001 December 2020/09-Hot-Dog.min.jpg",
+      "path": "./photos/2019-12-01 December/09-Hot-Dog.jpg",
+      "compressed_path": "./photos/2019-12-01 December/09-Hot-Dog.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/09-Hot-Dog.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/09-Hot-Dog.placeholder.jpg"
     },
     {
       "width": 1500,
       "height": 1500,
-      "path": "./photos/001 December 2020/10-Sunglasses.jpg",
-      "compressed_path": "./photos/001 December 2020/10-Sunglasses.min.jpg",
+      "path": "./photos/2019-12-01 December/10-Sunglasses.jpg",
+      "compressed_path": "./photos/2019-12-01 December/10-Sunglasses.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/001 December 2020/10-Sunglasses.placeholder.jpg"
+      "placeholder_path": "./photos/2019-12-01 December/10-Sunglasses.placeholder.jpg"
     }
   ],
-  "002 January 2020": [
+  "2020-01-01 January": [
     {
       "width": 600,
       "height": 450,
-      "path": "./photos/002 January 2020/001.png",
-      "compressed_path": "./photos/002 January 2020/001.min.png",
+      "path": "./photos/2020-01-01 January/001.png",
+      "compressed_path": "./photos/2020-01-01 January/001.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/001.placeholder.png"
+      "placeholder_path": "./photos/2020-01-01 January/001.placeholder.png"
     },
     {
       "width": 600,
       "height": 450,
-      "path": "./photos/002 January 2020/002.png",
-      "compressed_path": "./photos/002 January 2020/002.min.png",
+      "path": "./photos/2020-01-01 January/002.png",
+      "compressed_path": "./photos/2020-01-01 January/002.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/002.placeholder.png"
+      "placeholder_path": "./photos/2020-01-01 January/002.placeholder.png"
     },
     {
       "width": 600,
       "height": 450,
-      "path": "./photos/002 January 2020/003.jpg",
-      "compressed_path": "./photos/002 January 2020/003.min.jpg",
+      "path": "./photos/2020-01-01 January/003.jpg",
+      "compressed_path": "./photos/2020-01-01 January/003.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/003.placeholder.jpg"
+      "placeholder_path": "./photos/2020-01-01 January/003.placeholder.jpg"
     },
     {
       "width": 450,
       "height": 600,
-      "path": "./photos/002 January 2020/004.jpg",
-      "compressed_path": "./photos/002 January 2020/004.min.jpg",
+      "path": "./photos/2020-01-01 January/004.jpg",
+      "compressed_path": "./photos/2020-01-01 January/004.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/004.placeholder.jpg"
+      "placeholder_path": "./photos/2020-01-01 January/004.placeholder.jpg"
     },
     {
       "width": 600,
       "height": 450,
-      "path": "./photos/002 January 2020/005.png",
-      "compressed_path": "./photos/002 January 2020/005.min.png",
+      "path": "./photos/2020-01-01 January/005.png",
+      "compressed_path": "./photos/2020-01-01 January/005.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/005.placeholder.png"
+      "placeholder_path": "./photos/2020-01-01 January/005.placeholder.png"
+    },
+    {
+      "width": 1636,
+      "height": 1225,
+      "path": "./photos/2020-01-01 January/006.jpg",
+      "compressed_path": "./photos/2020-01-01 January/006.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-01-01 January/006.placeholder.jpg"
+    },
+    {
+      "width": 1636,
+      "height": 1229,
+      "path": "./photos/2020-01-01 January/007.jpg",
+      "compressed_path": "./photos/2020-01-01 January/007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-01-01 January/007.placeholder.jpg"
     },
     {
       "width": 600,
       "height": 450,
-      "path": "./photos/002 January 2020/008.png",
-      "compressed_path": "./photos/002 January 2020/008.min.png",
+      "path": "./photos/2020-01-01 January/008.png",
+      "compressed_path": "./photos/2020-01-01 January/008.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/008.placeholder.png"
+      "placeholder_path": "./photos/2020-01-01 January/008.placeholder.png"
     },
     {
       "width": 596,
       "height": 842,
-      "path": "./photos/002 January 2020/009.png",
-      "compressed_path": "./photos/002 January 2020/009.min.png",
+      "path": "./photos/2020-01-01 January/009.png",
+      "compressed_path": "./photos/2020-01-01 January/009.min.png",
       "compressed": false,
-      "placeholder_path": "./photos/002 January 2020/009.placeholder.png"
+      "placeholder_path": "./photos/2020-01-01 January/009.placeholder.png"
+    },
+    {
+      "width": 898,
+      "height": 1273,
+      "path": "./photos/2020-01-01 January/010.jpg",
+      "compressed_path": "./photos/2020-01-01 January/010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-01-01 January/010.placeholder.jpg"
     }
-  ]
+  ],
+  "2020-12-01 December": []
 }
