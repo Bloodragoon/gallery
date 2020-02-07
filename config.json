@@ -1,4 +1,62 @@
 {
+  "2020-02-01 Febuary": [
+    {
+      "width": 596,
+      "height": 843,
+      "path": "./photos/2020-02-01 Febuary/001.png",
+      "compressed_path": "./photos/2020-02-01 Febuary/001.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/001.placeholder.png"
+    },
+    {
+      "width": 903,
+      "height": 1277,
+      "path": "./photos/2020-02-01 Febuary/002.jpg",
+      "compressed_path": "./photos/2020-02-01 Febuary/002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/002.placeholder.jpg"
+    },
+    {
+      "width": 596,
+      "height": 843,
+      "path": "./photos/2020-02-01 Febuary/003.png",
+      "compressed_path": "./photos/2020-02-01 Febuary/003.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/003.placeholder.png"
+    },
+    {
+      "width": 596,
+      "height": 843,
+      "path": "./photos/2020-02-01 Febuary/004.png",
+      "compressed_path": "./photos/2020-02-01 Febuary/004.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/004.placeholder.png"
+    },
+    {
+      "width": 843,
+      "height": 596,
+      "path": "./photos/2020-02-01 Febuary/005.png",
+      "compressed_path": "./photos/2020-02-01 Febuary/005.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/005.placeholder.png"
+    },
+    {
+      "width": 597,
+      "height": 843,
+      "path": "./photos/2020-02-01 Febuary/006.png",
+      "compressed_path": "./photos/2020-02-01 Febuary/006.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/006.placeholder.png"
+    },
+    {
+      "width": 596,
+      "height": 843,
+      "path": "./photos/2020-02-01 Febuary/007.png",
+      "compressed_path": "./photos/2020-02-01 Febuary/007.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-02-01 Febuary/007.placeholder.png"
+    }
+  ],
   "2020-01-01 January": [
     {
       "width": 600,
