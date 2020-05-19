@@ -63,6 +63,22 @@
       "compressed_path": "./photos/2020-05-01 May/008.min.png",
       "compressed": false,
       "placeholder_path": "./photos/2020-05-01 May/008.placeholder.png"
+    },
+    {
+      "width": 1080,
+      "height": 1350,
+      "path": "./photos/2020-05-01 May/009.png",
+      "compressed_path": "./photos/2020-05-01 May/009.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-05-01 May/009.placeholder.png"
+    },
+    {
+      "width": 1080,
+      "height": 1350,
+      "path": "./photos/2020-05-01 May/010.png",
+      "compressed_path": "./photos/2020-05-01 May/010.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-05-01 May/010.placeholder.png"
     }
   ],
   "2020-04-27 April": [
