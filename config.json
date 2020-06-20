@@ -49,8 +49,8 @@
       "placeholder_path": "./photos/2020-05-01 May/006.placeholder.png"
     },
     {
-      "width": 1080,
-      "height": 1350,
+      "width": 596,
+      "height": 842,
       "path": "./photos/2020-05-01 May/007.png",
       "compressed_path": "./photos/2020-05-01 May/007.min.png",
       "compressed": false,
@@ -79,6 +79,22 @@
       "compressed_path": "./photos/2020-05-01 May/010.min.png",
       "compressed": false,
       "placeholder_path": "./photos/2020-05-01 May/010.placeholder.png"
+    },
+    {
+      "width": 1080,
+      "height": 1350,
+      "path": "./photos/2020-05-01 May/011.png",
+      "compressed_path": "./photos/2020-05-01 May/011.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-05-01 May/011.placeholder.png"
+    },
+    {
+      "width": 1080,
+      "height": 1350,
+      "path": "./photos/2020-05-01 May/012.png",
+      "compressed_path": "./photos/2020-05-01 May/012.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/2020-05-01 May/012.placeholder.png"
     }
   ],
   "2020-04-27 April": [
